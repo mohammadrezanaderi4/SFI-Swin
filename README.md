@@ -26,6 +26,43 @@ by MohammadReza Naderi
 Block diagram of our proposed method.
 </p>
 
+<br>
+<br>
+<br>
+<div  align="center">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+</div>
+<p align="center" "font-size:14px;">
+Block diagram of our proposed method.
+</p>
+<br>
+<br>
+<br>
+<div  align="center">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+</div>
+<p align="center" "font-size:14px;">
+Block diagram of our proposed method.
+</p>
+<br>
+<br>
+<br>
+<div  align="center">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+</div>
+<p align="center" "font-size:14px;">
+Block diagram of our proposed method.
+</p>
+<br>
+<br>
+<br>
+<div  align="center">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+</div>
+<p align="center" "font-size:14px;">
+Block diagram of our proposed method.
+</p>
+
 ## Implementations
 * Coming Soon ...
 
