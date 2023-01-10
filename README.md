@@ -12,10 +12,19 @@ by MohammadReza Naderi
 
 
 <p align="center">
-  <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/GIF_final1.gif" />
+  <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/GIF_final1.gif" width="90%"/>
 </p>
 
-
+ ---
+<br>
+<br>
+<br>
+<div  align="center">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+</div>
+<p align="center" "font-size:14px;">
+Block diagram of our proposed method.
+</p>
 
 ## Implementations
 * Coming Soon ...
