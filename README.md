@@ -19,45 +19,52 @@ by MohammadReza Naderi
 <br>
 <br>
 <br>
+## Blockdiagram
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 Block diagram of our proposed method.
 </p>
-
+## FID comparison
 <br>
 <br>
 <br>
 <div  align="center">
-    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table1.PNG" width="90%">
 </div>
 <p align="center" "font-size:14px;">
-Block diagram of our proposed method.
 </p>
 <br>
 <br>
 <br>
 <div  align="center">
-    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig2.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
-Block diagram of our proposed method.
+</p>
+## SCS comparison
+<br>
+<br>
+<br>
+<div  align="center">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table2.PNG" width="90%">
+</div>
+<p align="center" "font-size:14px;">
 </p>
 <br>
 <br>
 <br>
 <div  align="center">
-    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig4.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
-Block diagram of our proposed method.
 </p>
 <br>
 <br>
 <br>
 <div  align="center">
-    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig5.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 Block diagram of our proposed method.
