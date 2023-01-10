@@ -15,8 +15,6 @@ by MohammadReza Naderi
   <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/GIF_final1.gif" width="90%"/>
 </p>
 <br>
-<br>
-<br>
 
 ## Blockdiagram
 
@@ -25,11 +23,8 @@ by MohammadReza Naderi
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
-Block diagram of our proposed method.
 </p>
 
-<br>
-<br>
 <br>
 
 ## FID and LPIPS comparison
@@ -40,16 +35,12 @@ Block diagram of our proposed method.
 <p align="center" "font-size:14px;">
 </p>
 <br>
-<br>
-<br>
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig2.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 </p>
 
-<br>
-<br>
 <br>
 
 ## SCS comparison
@@ -65,16 +56,12 @@ First, we mask an eye and a K×K patch of the face, and reconstruct the missing 
 
 </p>
 <br>
-<br>
-<br>
 <p align="center" "font-size:14px;">
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table2.PNG" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 </p>
-<br>
-<br>
 <br>
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig5.png" width="90%">
