@@ -14,22 +14,26 @@ by MohammadReza Naderi
 <p align="center">
   <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/GIF_final1.gif" width="90%"/>
 </p>
+<br>
+<br>
+<br>
 
- ---
-<br>
-<br>
-<br>
 ## Blockdiagram
-<div  align="center">
+
+
+<div  align="center"> 
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 Block diagram of our proposed method.
 </p>
-## FID comparison
+
 <br>
 <br>
 <br>
+
+## FID and LPIPS comparison
+
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table1.PNG" width="90%">
 </div>
@@ -43,20 +47,29 @@ Block diagram of our proposed method.
 </div>
 <p align="center" "font-size:14px;">
 </p>
+
+<br>
+<br>
+<br>
+
 ## SCS comparison
+what is symmetry concentration score (SCS)?
 <br>
+Symmetry concentration Score is a newly introduce metric which expailed compeletly in the paper to measure the symmerty of the repaired faces base on the concentration of the inpaintor.  
+How to calculate it?
 <br>
-<br>
+First, we mask an eye and a K×K patch of the face, and reconstruct the missing eye and the K×K patch. Then the absolute difference between the image with inpainted eye with the image with a missing K×K patch and the missing eye is computed. The difference shows the effect of that K×K patch on inpainting result of the missing eye. The effect of all K×K patches is computed and shown as a heatmap. The face borders are also depicted to investigate the impact of each part of the face on inpainting the missed eye.
 <div  align="center">
-    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table2.PNG" width="90%">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig4.png" width="90%">
 </div>
-<p align="center" "font-size:14px;">
+
 </p>
 <br>
 <br>
 <br>
+<p align="center" "font-size:14px;">
 <div  align="center">
-    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig4.png" width="90%">
+    <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table2.PNG" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 </p>
