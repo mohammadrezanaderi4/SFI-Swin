@@ -17,15 +17,15 @@ by MohammadReza Naderi
 <br>
 
 ## Blockdiagram
-
+What is the general explainations of the proposed method?
+<br>
+First, the generator takes the masked image as input and attempts to inpaint it. Then the inpainted image is fed to the patch discriminator to check the overall reality of the patches. Meanwhile, the inpainted image is also fed into a semantic segmentation network to separate the semantic parts of the face, such as eyes, and ears. (The architecture of these six semantic discriminators is the same). In the next step, six distinct discriminators calculate the total realness of each semantic part of the face. Then, the generator parameters will be updated based on these seven discriminators and the pixel-wise loss gradient signals, which are backpropagated to the generator.
 
 <div  align="center"> 
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/block%20diagram.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 </p>
-
-<br>
 
 ## FID and LPIPS comparison
 
@@ -34,14 +34,12 @@ by MohammadReza Naderi
 </div>
 <p align="center" "font-size:14px;">
 </p>
-<br>
+
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig2.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 </p>
-
-<br>
 
 ## SCS comparison
 what is symmetry concentration score (SCS)?
@@ -55,19 +53,16 @@ First, we mask an eye and a K×K patch of the face, and reconstruct the missing 
 </div>
 
 </p>
-<br>
 <p align="center" "font-size:14px;">
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Table2.PNG" width="90%">
 </div>
 <p align="center" "font-size:14px;">
 </p>
-<br>
 <div  align="center">
     <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/Fig5.png" width="90%">
 </div>
 <p align="center" "font-size:14px;">
-Block diagram of our proposed method.
 </p>
 
 ## Implementations
