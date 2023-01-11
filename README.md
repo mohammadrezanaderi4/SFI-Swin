@@ -1,5 +1,5 @@
 # SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions
-Official implementation
+Official Pytorch implementation
 
 by MohammadReza Naderi
 , MohammadHossein Givkashi 
@@ -9,8 +9,9 @@ by MohammadReza Naderi
 
 [[arXiv](https://arxiv.org/abs/2301.03130)]
  
-
-
+## Implementations
+* Coming Soon ...
+---
 <p align="center">
   <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/GIF_final1.gif" width="90%"/>
 </p>
@@ -44,7 +45,7 @@ First, the generator takes the masked image as input and attempts to inpaint it.
 ## SCS comparison
 what is symmetry concentration score (SCS)?
 <br>
-Symmetry concentration Score is a newly introduce metric which expailed compeletly in the paper to measure the symmerty of the repaired faces base on the concentration of the inpaintor.  
+Symmetry concentration Score is a newly introduce metric which explained compeletly in the paper to measure the symmerty of the repaired faces base on the concentration of the inpaintor.  
 How to calculate it?
 <br>
 First, we mask an eye and a K×K patch of the face, and reconstruct the missing eye and the K×K patch. Then the absolute difference between the image with inpainted eye with the image with a missing K×K patch and the missing eye is computed. The difference shows the effect of that K×K patch on inpainting result of the missing eye. The effect of all K×K patches is computed and shown as a heatmap. The face borders are also depicted to investigate the impact of each part of the face on inpainting the missed eye.
@@ -65,15 +66,12 @@ First, we mask an eye and a K×K patch of the face, and reconstruct the missing 
 <p align="center" "font-size:14px;">
 </p>
 
-## Implementations
-* Coming Soon ...
 
 ## Acknowledgments
-* lama [CSAILVision](https://github.com/CSAILVision/semantic-segmentation-pytorch).
-* Swin-Unet [CSAILVision](https://github.com/CSAILVision/semantic-segmentation-pytorch).
+* [lama](https://github.com/saic-mdal/lama).
+* [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet).
 * Segmentation code and models if form [CSAILVision](https://github.com/CSAILVision/semantic-segmentation-pytorch).
 * LPIPS metric is from [richzhang](https://github.com/richzhang/PerceptualSimilarity)
-* SSIM is from [Po-Hsun-Su](https://github.com/Po-Hsun-Su/pytorch-ssim)
 * FID is from [mseitzer](https://github.com/mseitzer/pytorch-fid)
 
 ## Citation
