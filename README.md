@@ -1,4 +1,8 @@
 # SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2301.03130)
+[![GitHub Stars](https://img.shields.io/github/stars/mohammadrezanaderi4/SFI-Swin?style=social)](https://github.com/mohammadrezanaderi4/SFI-Swin)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mohammadrezanaderi4/SFI-Swin)
+
 Official Pytorch implementation
 
 by MohammadReza Naderi
@@ -7,15 +11,15 @@ by MohammadReza Naderi
 , Shahram Shirani
 , Shadrokh Samavi
 
-[[arXiv](https://arxiv.org/abs/2301.03130)]
- 
-## Implementations
-* Coming Soon ...
----
+<br>
 <p align="center">
   <img src="https://github.com/mohammadrezanaderi4/SFI-Swin/blob/main/GIF_final1.gif" width="90%"/>
 </p>
 <br>
+
+
+## Implementations
+* Coming Soon ...
 
 ## Blockdiagram
 What is the general explainations of the proposed method?
