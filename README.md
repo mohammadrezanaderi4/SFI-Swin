@@ -2,7 +2,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2301.03130)
 [![GitHub Stars](https://img.shields.io/github/stars/mohammadrezanaderi4/SFI-Swin?style=social)](https://github.com/mohammadrezanaderi4/SFI-Swin)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mohammadrezanaderi4/SFI-Swin)
+<br>
 [[Project page](https://givkashi.github.io/SFI-Swin/)]
+<br>
+<br>
 Official Pytorch implementation
 
 by MohammadReza Naderi
