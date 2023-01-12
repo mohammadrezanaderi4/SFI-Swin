@@ -77,7 +77,7 @@ First, we mask an eye and a K×K patch of the face, and reconstruct the missing 
 ## Citation
 If you found this code helpful, please consider citing: 
 ```
-@article{naderi2023sfi-swin,
+@article{naderi2023sfi,
   title={SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions},
   author={Naderi, MohammadReza and Givkashi, MohammadHossein and Karimi, Nader and Shirani, Shahram and Samavi, Shadrokh},
   journal={arXiv preprint arXiv:2301.03130},
